@@ -1,0 +1,31 @@
+name:
+  - usatlas-argonne-python
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - numpy
+  - uproot
+  - pandas
+  - matplotlib
+  - iminuit
+  - scikit-learn
+  - pytorch-cpu
+  - sympy
+  - uncertainties
+  - pip:
+      - formulate
+      - pyjet
+      - particle
+      - pyhf
+      - root_numpy
+  - numexpr
+  - numba
+  - dask
+  - python-graphviz
+  - cython
+  - pybind11
+  - pillow
+  - root
+  - h5py
+  - pyarrow
