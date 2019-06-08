@@ -7,3 +7,8 @@ tmp2.awkd
 tmp.root
 tmp.hdf5
 tmp.parquet
+as_a_cpp_project.C
+as_a_cpp_project.h
+as_a_cpp_project_C.d
+as_a_cpp_project_C.so
+as_a_cpp_project_C_ACLiC_dict_rdict.pcm
