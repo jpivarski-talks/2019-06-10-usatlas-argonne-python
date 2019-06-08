@@ -9,7 +9,7 @@ To participate, either install all of the software on your laptop (with [conda](
 ```bash
 git clone https://github.com/jpivarski/2019-06-10-usatlas-argonne-python.git
 cd 2019-06-10-usatlas-argonne-python
-conda create -f environment.yml             # create an isolated environment and install everything
+conda env create -f environment.yml         # create an isolated environment and install everything
 conda activate usatlas-argonne-python       # switch to that environment (maybe "source activate...")
 conda install jupyterlab
 jupyter lab                                 # runs on your machine, controlled by your web browser

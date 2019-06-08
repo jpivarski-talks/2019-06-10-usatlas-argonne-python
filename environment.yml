@@ -1,5 +1,4 @@
-name:
-  - usatlas-argonne-python
+name: usatlas-argonne-python
 channels:
   - conda-forge
   - pytorch
