@@ -12,3 +12,11 @@ as_a_cpp_project.h
 as_a_cpp_project_C.d
 as_a_cpp_project_C.so
 as_a_cpp_project_C_ACLiC_dict_rdict.pcm
+derived-feature.awkd
+many_arrays.awkd
+many_arrays.npz
+many_arrays.parquet
+one_array.awkd
+one_array.npz
+one_array.parquet
+selected-events.awkd
