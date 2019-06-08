@@ -15,6 +15,6 @@ conda install jupyterlab
 jupyter lab                                 # runs on your machine, controlled by your web browser
 ```
 
-or click below to run everything in the cloud: [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpivarski/2019-06-10-usatlas-argonne-python/1.1?urlpath=lab)
+or click below to run everything in the cloud: [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpivarski/2019-06-10-usatlas-argonne-python/1.2?urlpath=lab)
 
 _(If installation on your laptop fails, use the cloud option. Dependencies for "misc" notebooks not included.)_
