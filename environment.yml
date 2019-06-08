@@ -15,3 +15,4 @@ dependencies:
   - root_numpy
   - h5py
   - pyarrow
+  - pyyaml
