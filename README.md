@@ -2,7 +2,9 @@
 
 Jim's tutorials for U.S. ATLAS Python training at Argonne:
 
-   * **FIXME:** where and when?
+   * Argonne National Lab
+   * Building 360 Room A-224
+   * 9:00am ‒ 4:30pm
 
 To participate, either install all of the software on your laptop (with [conda](https://docs.conda.io/en/latest/miniconda.html), an isolated environment that you can remove with `conda remove --name usatlas-argonne-python --all`):
 
