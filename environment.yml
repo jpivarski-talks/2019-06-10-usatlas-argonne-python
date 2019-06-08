@@ -11,7 +11,8 @@ dependencies:
   - numexpr
   - numba
   - root
-  - root_numpy
   - h5py
   - pyarrow
   - pyyaml
+  - pip:
+      - root_numpy
