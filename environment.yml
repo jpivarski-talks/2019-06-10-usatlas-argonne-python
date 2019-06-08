@@ -16,3 +16,4 @@ dependencies:
   - pyyaml
   - pip:
       - root_numpy
+      - awkward-numba
