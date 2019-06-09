@@ -20,3 +20,11 @@ jupyter lab                                 # runs on your machine, controlled b
 or click below to run everything in the cloud: [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpivarski/2019-06-10-usatlas-argonne-python/1.4?urlpath=lab)
 
 _(If installation on your laptop fails, use the cloud option. Dependencies for "misc" notebooks not included.)_
+
+## Resources
+
+   * [Scikit-HEP](http://scikit-hep.org/)
+   * [IRIS-HEP Awesome List](https://github.com/iris-hep/awesome-hep#awesome-hep)
+   * [Python Libraries of Interest to Particle Physicists](https://github.com/hsf-training/PyHEP-resources#python-libraries-of-interest-to-particle-physics)
+   * [HEP Software Foundation PyHEP Working Group](https://hepsoftwarefoundation.org/workinggroups/pyhep.html)
+   * [PyHEP Gitter channel](https://gitter.im/HSF/PyHEP)
