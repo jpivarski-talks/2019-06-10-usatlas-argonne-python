@@ -1,4 +1,4 @@
-# https://github.com/jpivarski/2019-06-10-usatlas-argonne-python
+# github.com/jpivarski/2019-06-10-usatlas-argonne-python
 
 Jim's tutorials for U.S. ATLAS Python training at Argonne:
 
